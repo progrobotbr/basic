@@ -1,0 +1,9 @@
+1 REM *****************
+2 REM * EXEMPLO DATA *
+3 REM *****************
+4 REM
+10 DATA 1,5,4,"RENATO"
+11 DATA "ALVES", "DE", "LIMA"
+12 DATA 34
+20 READ X
+30 PRINT X

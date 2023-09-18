@@ -1,0 +1,5 @@
+4 V = 300
+5 Z = 23
+10 DEF V1(V)=V+10
+20 PRINT V1(Z)
+30 PRINT V
